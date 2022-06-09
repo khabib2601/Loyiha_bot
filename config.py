@@ -1,1 +1,1 @@
-TOKEN = '5322847700:AAEAXZJwk5rwZhXtX5xxiieXUbDwHFJSrdk'
+TOKEN = "Bu yerga tokenni yozing!"
